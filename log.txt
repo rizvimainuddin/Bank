@@ -1,0 +1,2 @@
+Balance = 11000.0Amount deducted: 1000.0Date and Time2022-09-29T09:44:21.619315172
+Balance = 10800.0Amount deducted: 200.0Date and Time2022-09-29T09:44:21.654174752
